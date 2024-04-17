@@ -1,33 +1,33 @@
 # CNN_Cats-Dogs
-## Klasifikasi Gambar Kucing atau Anjing Menggunakan Convolutional Neural Network
+## Image Classification of Cats and Dogs Using Convolutional Neural Network
 
-### Deskripsi Proyek
-Proyek ini merupakan bagian dari kursus Deep Learning dari Udemy dan bertujuan untuk membuat model Convolutional Neural Network (CNN) yang dapat membedakan antara gambar kucing dan anjing. Model ini dapat digunakan untuk klasifikasi gambar kucing dan anjing dengan tingkat akurasi yang tinggi.
+### Project Description
+This project is part of the Deep Learning course from Udemy and aims to create a Convolutional Neural Network (CNN) model that can distinguish between images of cats and dogs. The model is capable of accurately classifying cat and dog images with high accuracy.
 
-### Instalasi
-1. Pastikan Anda memiliki Python yang terinstal di komputer Anda.
-2. Instalasi beberapa pustaka Python yang dibutuhkan dengan menjalankan perintah berikut di terminal atau command prompt:
+### Installation
+1. Make sure you have Python installed on your computer.
+2. Install the required Python libraries by running the following command in your terminal or command prompt:
 
    ```bash
    pip install numpy pandas tensorflow keras matplotlib opencv-python
    ```
 
-3. Unduh dataset kucing dan anjing dari sumber dataset yang dipilih.
+3. Download cat and dog datasets from your chosen dataset source.
 
-### Penggunaan
-1. Pastikan Anda telah mengunduh dan menyiapkan dataset kucing dan anjing.
-2. Jalankan script `NYOBA.py` untuk melatih model CNN menggunakan dataset yang telah disiapkan:
-3. Setelah melatih model, Anda dapat menjalankan script `.py` untuk melakukan prediksi pada gambar kucing atau anjing:
+### Usage
+1. Ensure you have downloaded and prepared the cat and dog datasets.
+2. Run the `NYOBA.py` script to train the CNN model using the prepared datasets.
+3. After training the model, you can run the `tes.py` script to make predictions on cat or dog images.
 
-### Kontribusi
-Kontribusi terhadap proyek ini selalu dipersilakan. Jika Anda menemukan masalah atau memiliki saran perbaikan, silakan buat *pull request* di repositori proyek ini.
+### Contribution
+Contributions to this project are always welcome. If you encounter any issues or have suggestions for improvement, please create a pull request in this project's repository.
 
-### Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+### License
+This project is licensed under the [MIT License](LICENSE).
 
-### Kontak
-Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya melalui email di [email@example.com](mailto:fatonimurfids@gmail.com).
+### Contact
+If you have any questions or suggestions, feel free to contact me via email at [email@example.com](mailto:fatonimurfids@gmail.com).
 
 ---
 
-Dengan menggunakan README di atas sebagai panduan, Anda dapat memberikan informasi yang cukup kepada pengguna proyek Anda tentang cara menggunakan, melatih, dan berkontribusi pada proyek klasifikasi gambar kucing atau anjing menggunakan Convolutional Neural Network. Jangan lupa untuk menyertakan informasi tambahan yang relevan dengan proyek Anda sendiri!
+By using the above README as a guide, you can provide sufficient information to users of your project on how to use, train, and contribute to a project for classifying images of cats and dogs using Convolutional Neural Networks. Don't forget to include additional relevant information about your project!
