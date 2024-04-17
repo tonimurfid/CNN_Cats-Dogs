@@ -26,7 +26,7 @@ Contributions to this project are always welcome. If you encounter any issues or
 This project is licensed under the [MIT License](LICENSE).
 
 ### Contact
-If you have any questions or suggestions, feel free to contact me via email at [email@example.com](mailto:fatonimurfids@gmail.com).
+If you have any questions or suggestions, feel free to contact me via email at [fatonimurfids@gmail.com](mailto:fatonimurfids@gmail.com).
 
 ---
 
