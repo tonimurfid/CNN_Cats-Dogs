@@ -16,8 +16,8 @@ This project is part of the Deep Learning course from Udemy and aims to create a
 
 ### Usage
 1. Ensure you have downloaded and prepared the cat and dog datasets.
-2. Run the `NYOBA.py` script to train the CNN model using the prepared datasets.
-3. After training the model, you can run the `tes.py` script to make predictions on cat or dog images.
+2. Run the `CNN.ipynb` script to train the CNN model using the prepared datasets.
+3. After training the model, you can run the `Test.ipynb` script to make predictions on cat or dog images.
 
 ### Contribution
 Contributions to this project are always welcome. If you encounter any issues or have suggestions for improvement, please create a pull request in this project's repository.
