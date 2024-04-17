@@ -16,21 +16,8 @@ Proyek ini merupakan bagian dari kursus Deep Learning dari Udemy dan bertujuan u
 
 ### Penggunaan
 1. Pastikan Anda telah mengunduh dan menyiapkan dataset kucing dan anjing.
-2. Jalankan script `train_cnn.py` untuk melatih model CNN menggunakan dataset yang telah disiapkan:
-
-   ```bash
-   python train_cnn.py --dataset_path path_to_dataset --output_model_path model_output_path
-   ```
-
-   Gantilah `path_to_dataset` dengan path menuju dataset kucing dan anjing, dan `model_output_path` dengan path tempat Anda ingin menyimpan model yang dilatih.
-
-3. Setelah melatih model, Anda dapat menjalankan script `predict_image.py` untuk melakukan prediksi pada gambar kucing atau anjing:
-
-   ```bash
-   python predict_image.py --image_path path_to_image --model_path path_to_model
-   ```
-
-   Gantilah `path_to_image` dengan path menuju gambar yang ingin Anda prediksi, dan `path_to_model` dengan path menuju model yang telah dilatih.
+2. Jalankan script `NYOBA.py` untuk melatih model CNN menggunakan dataset yang telah disiapkan:
+3. Setelah melatih model, Anda dapat menjalankan script `.py` untuk melakukan prediksi pada gambar kucing atau anjing:
 
 ### Kontribusi
 Kontribusi terhadap proyek ini selalu dipersilakan. Jika Anda menemukan masalah atau memiliki saran perbaikan, silakan buat *pull request* di repositori proyek ini.
